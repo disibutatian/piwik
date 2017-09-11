@@ -116,7 +116,7 @@
 		<logo>plugins/Morpheus/icons/dist/flags/it.png</logo>
 	</row>
 	<row>
-		<label>Unknown, Tibet</label>
+		<label>Unknown, Tibet Autonomous Region (China)</label>
 		<nb_visits>2</nb_visits>
 		<nb_actions>5</nb_actions>
 		<max_actions>4</max_actions>
@@ -140,7 +140,7 @@
 		<segment>regionCode==1;countryCode==ti</segment>
 		<region>1</region>
 		<country>ti</country>
-		<country_name>Tibet</country_name>
+		<country_name>Tibet Autonomous Region (China)</country_name>
 		<region_name>Unknown</region_name>
 		<logo>plugins/Morpheus/icons/dist/flags/ti.png</logo>
 	</row>
